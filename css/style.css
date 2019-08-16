@@ -1,0 +1,22 @@
+label {
+	display: block;
+	margin: 5px 0;
+}
+
+body {
+	background-image: url("serial-hacker.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td,
+th {
+  padding: 5px;
+  border-bottom: 1px solid #aaa;
+}
